@@ -85,9 +85,9 @@ var handlers = {
   ]
 }
 
-GetNewFactIntent tell me a wkrp in cincinnati fact
-GetNewFactIntent give me a wkrp in cincinnati fact
-GetNewFactIntent I want a wkrp in cincinnati fact
+GetNewFactIntent tell me a wkrp fact
+GetNewFactIntent give me a wkrp fact
+GetNewFactIntent I want a wkrp fact
 
 Alexa, ask wkrp in cincinnati fact to tell me a wkrp in cincinnati
 give me a wkrp in cincinnati fact
