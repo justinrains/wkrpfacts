@@ -68,6 +68,7 @@ var handlers = {
     }
 };
 
+/*
 {
   "intents": [
     {
@@ -92,4 +93,5 @@ GetNewFactIntent I want a wkrp fact
 Alexa, ask wkrp in cincinnati fact to tell me a wkrp in cincinnati
 give me a wkrp in cincinnati fact
 i want a wkrp in cincinnati fact
+*/
 
